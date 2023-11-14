@@ -1,4 +1,4 @@
-# Python-For-Deveops-Nov-2023
+# Python-For-Deveops
 From Zero Repository for doing Python DevOps Work
 
 
