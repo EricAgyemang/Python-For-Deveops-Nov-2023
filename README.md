@@ -3,9 +3,9 @@ From Zero Repository for doing Python DevOps Work
 
 ![SE](https://github.com/EricAgyemang/Python-For-Deveops-Nov-2023/assets/63588490/87dbe182-9f22-4293-9b8c-3035b2940dda)
 
-## Create a project scaffold
+1. Create a project scaffold
 
-Create development environment that is cloud-based:
+  Create development environment that is cloud-based:
   
   ### Colab Notebook
   
@@ -28,9 +28,9 @@ Create development environment that is cloud-based:
   ### AWS Cloud9
 
   
-## Command-Line Tools
+2. Command-Line Tools
 
-## Microservices
+3. Microservices
 
-## Containerized Continuous Delivery
+4. Containerized Continuous Delivery
 
